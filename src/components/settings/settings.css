@@ -1,0 +1,22 @@
+.image2{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.settingLabel
+{
+    font-size: 25px;
+    font-style: oblique;
+    margin-top: 5px;
+}
+
+.settingLabelInput{
+    height: 40px;
+    width: 100%;
+    margin: 2px;
+
+    font-size: 25px;
+    outline: none;
+    border-bottom: 1px solid;
+}

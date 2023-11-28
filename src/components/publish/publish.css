@@ -1,0 +1,34 @@
+.publishImg{
+    
+    width:50%;
+    height:100%
+}
+
+.inputFile{
+    display: none;
+}
+
+.input{
+    display: flex;
+    flex-direction: row;
+   
+    margin-left:  18rem;
+    margin-top: 2rem;
+}
+
+.inputTitle{
+    height:28px;
+    width: 550px;
+    border: none;
+    outline: none;
+    font-size: xx-large;
+}
+
+.textInp{
+    margin-left: 20rem;
+    height: 500px;
+    width: 800px;
+    margin-top: 3rem;
+    font-size: 2rem;
+    outline: none;
+}

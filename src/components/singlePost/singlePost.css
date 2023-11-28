@@ -1,0 +1,30 @@
+
+
+.titlebar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+
+
+.new{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 2rem;
+
+}
+.singleText{
+    font-size: larger;
+
+    margin-bottom: 5rem;
+}
+
+.singleText::first-letter{
+    font-size: 50px;
+    font-weight: 600;
+    
+}

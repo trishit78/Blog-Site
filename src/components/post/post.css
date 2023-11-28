@@ -1,0 +1,19 @@
+
+.postDiv{
+    width: 90%;
+
+}
+.postImg{
+    height: 375px;
+    width:100%;
+    object-fit: cover;
+    border-radius: 5%;
+}
+
+.postText{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+}

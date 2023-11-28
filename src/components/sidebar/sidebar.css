@@ -1,0 +1,13 @@
+.sidebar{
+    flex:9;
+}
+
+.aboutImg{
+    width:260px;
+    height:300px;
+    margin-left:5.5rem;
+}
+
+.listitems{
+    display: inline-block;
+}
